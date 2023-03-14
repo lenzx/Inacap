@@ -1,0 +1,23 @@
+// un objeto tiene atributos(clave->valor)
+/*
+se desea almacenar el rut, nombre, apellidos y correo electronico de un usuario.
+añadir tambien el numero de asignaturas que cursa actualemente.
+añadir fecha incio de clases
+*/
+{
+    "rut":"12345678-9",
+    "nonbre":"Enrique",
+    "apellido":"Palacios",
+    "correo_electronico":"Enrique.Palacios@inacapmail.cl",
+    "numero_de_asignaturas": 5,
+    "asignaturas":[
+        "Fundamentos de base de datos",
+        "introduccion a la programacion",
+        "formacion ciudadana",
+        "resolucion de problemas en algebra",
+        "fundamentos de hardware y sofware"
+    ],
+    "verpertino": false,
+    "aval": null,
+    "inicio_de_clases" : "2023-03-13 08:48:40"
+}
