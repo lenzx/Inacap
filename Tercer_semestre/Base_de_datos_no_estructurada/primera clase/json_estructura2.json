@@ -1,0 +1,20 @@
+{
+    "nommbre": "Eva",
+    "apellido" : "Pi",
+    "sueldo" : 2000,
+    "departamento":["marketing","administracion"],
+    "habilidades" : [
+        {
+            "tipo" : "social",
+            "puntuacion" : 10
+        },
+        {
+            "tipo" : "compromiso",
+            "puntuacion" : 9
+        },
+        {
+            "tipo" : "tecnicas",
+            "puntuacion" : 8
+        }
+    ]
+}

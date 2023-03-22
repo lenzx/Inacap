@@ -1,0 +1,23 @@
+{   
+    "rut" :"",
+    "nombre":"",
+    "apellido":"",
+    "edad" : null,
+    "medicamento_alergico" : [
+    ],
+    "doctor" : {
+        "nombre" : "",
+        "especialidad" : []
+    },
+    "atencion" : {
+        "fecha" : "",
+        "hora" : "",
+        "lugar" : ""
+    },
+    "historial_medico" : [
+        {
+            "nombre" : "",
+            "dosis" : ""
+        }
+    ]
+}

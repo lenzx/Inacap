@@ -1,0 +1,38 @@
+{
+    "informacion" : {
+        "voltaje" : 1.1,
+        "nivel" : 30,
+        "datos_captura" : {
+            "fecha" : "2023-03-21",
+            "hora" : "11:37"
+        }
+    },
+    "celda" :{
+        "numero" : 89,
+        "sector" : "Oeste",
+        "nodos" : [
+            224,
+            245,
+            256,
+            247
+        ]
+    },
+    "alarmas" : [
+        {
+            "celda" : 2,
+            "banco" : 5,
+            "tipo" : "temperatura"
+        },
+        {
+            "celda" : 56,
+            "banco" : 2,
+            "tipo" : "flujo"
+        },
+        {
+            "celda" : 77,
+            "banco" : 6,
+            "tipo" : "voltaje"
+        }
+    ]
+}
+
